@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #000;
+  color: white;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  overflow: hidden;
+}
+#video {
+  display: none;
+}
+canvas {
+  border: 2px solid #00bfff;
+  box-shadow: 0 0 20px rgba(0, 191, 255, 0.6);
+  background: #000;
+}
+#status {
+  margin-top: 20px;
+  font-size: 28px;
+  font-weight: bold;
+  text-shadow: 0 0 10px currentColor;
+}
+.signature {
+  position: absolute;
+  bottom: 15px;
+  font-size: 12px;
+  color: #666;
+  font-family: monospace;
+}
