@@ -1,6 +1,6 @@
 # Finger Tracker
 
-> 🖐️ **Beta** – Real-time hand state detection (OPEN / CLOSED) for sim racing and gesture control.  
+> 🖐️ **Beta** – Real-time hand state detection (OPEN / CLOSED)  
 > Built for **you to use, test, and modify**.
 
 A lightweight, single-file web app that uses your webcam to track hand gestures in real time.  
