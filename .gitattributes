@@ -1,0 +1,4 @@
+# Forzar a GitHub a contar todos los archivos
+* linguist-vendored=false
+* linguist-generated=false
+* linguist-detectable=true
